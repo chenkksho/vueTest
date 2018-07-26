@@ -1,6 +1,6 @@
 # vuetest
 
-> 测试vue-cli
+> 测试vue-cli template
 
 ## Build Setup
 
