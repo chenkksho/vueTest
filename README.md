@@ -1,6 +1,6 @@
 # vuetest
 
-> 测试vue-cli template git push push2
+> 测试vue-cli template
 
 ## Build Setup
 
